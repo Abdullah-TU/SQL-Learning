@@ -1,4 +1,5 @@
 # SQL Learning
 
 ### Course topics includes: 
-- establishing a database
+- Establishing a database
+- Updating data and posing queries in SQL language

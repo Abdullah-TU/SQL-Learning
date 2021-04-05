@@ -1,1 +1,3 @@
-# SQL-Learning
+# SQL Learning
+
+### Course topics includes: 

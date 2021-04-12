@@ -1,0 +1,11 @@
+-- Tietokantojen perusteet - Database basics 2021
+-- H1 T11
+-- abdullah-al.mamun@tuni.fi 
+
+Vastaus / Answer ...
+
+The truth values of the following conditions in WHERE clauses of a query, when applied to the row of a mountain table will be:
+ e. height IS NULL
+a, b, c,d  not true because NULL values can not be tested with comparison operators i.e: =, <, or <>.
+
+

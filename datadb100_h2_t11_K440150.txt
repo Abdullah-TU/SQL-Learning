@@ -1,0 +1,11 @@
+-- Tietokantojen perusteet - Database basics 2021
+-- H2 T11
+-- abdullah-al.mamun@tuni.fi 
+
+If action rule for foreign keys is no action, the SQL shell does not execute the insert, update, or delete operation because it will create foreign key 
+constrain error specially for large datasets. To avoid foreign key constraint errors we need to enable foreign key (entering the command PRAGMA foreign_keys = ON;).
+
+
+
+
+

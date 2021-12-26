@@ -2,8 +2,8 @@
 # SQLite and PostgreSQL
 
 
-### Topics includes: 
-
+### learning includes: 
+### SQLite: 
 - Establishing a database
 - Updating data and posing queries in SQL language
 - database modelling and design. 

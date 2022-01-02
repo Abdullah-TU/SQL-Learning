@@ -9,4 +9,6 @@
 - database modelling and design. 
 - In addition, history and development trends of databases and principles of database management systems are covered briefly.
 
+### T-SQL
+
 ### PostgreSQL
